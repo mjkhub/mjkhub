@@ -24,7 +24,8 @@
 </div>
 
 <h2 align="center">
-  <a href="https://www.koritravel.com">🌟 Main Project Link🌟</a>
+  <p>🌟 Main Project 🌟</p>
+  <p><a href="https://www.koritravel.com" target="_blank">Go to see Kori</a></p>
 </h2>
 
 <div align="center">
