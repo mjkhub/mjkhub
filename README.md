@@ -1,5 +1,5 @@
 <div align="center">
-🖥️ Core Technologies 🖥️
+<h2>🖥️ Core Technologies 🖥️</h2>
 </div>
 <br>
 
@@ -23,6 +23,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
 </div>
+
+<h2 align="center">
+  <a href="https://www.koritravel.com">🌟 Main Project Link🌟</a>
+</h2>
 
 <div align="center">
 🏆 Solved.ac 🏆
