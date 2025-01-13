@@ -1,5 +1,5 @@
 <div align="center">
-<h2>🖥️ Core Technologies 🖥️</h2>
+<h2>🖥️ Core Tech Stack 🖥️</h2>
 </div>
 <div align="center">
   
