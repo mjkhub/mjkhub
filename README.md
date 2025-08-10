@@ -5,7 +5,7 @@
 <br />
 
 <h3> 🤝 Community  </h3>
-* [GDG On Campus Konkuk University](https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/) Member - 2024.08 ~ 2025.06
+* [GDG On Campus Konkuk University]( https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/ ) Member - 2024.08 ~ 2025.06
 
 <br />
 
