@@ -6,16 +6,15 @@
 
 <h3> 🤝 Community  </h3>
 
-* [GDG On Campus Konkuk University](https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/) Member - 2024.08 ~ 2025.06
-
+* [GDG On Campus Konkuk University](https://gdg.community.dev/gdg-on-campus-konkuk-university-seoul-south-korea/) Member - Sep.2024 ~ Jun.2025
 <br />
 
 <h3> 🌐 Open Source Contributions  </h3>
 
 * [spring-ai-#3326](https://github.com/spring-projects/spring-ai/pull/3326#issuecomment-2911356510) Refactor builder pattern in VertexAiGeminiSafetySetting 
+* Participated as a pre-publication reviewer for Spring AI in Action (Aug–Sep 2025).
 
 <br />
-
 
 
 
