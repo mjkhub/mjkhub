@@ -16,6 +16,12 @@
 
 <br />
 
+<h3>🎓 Certification 🎓</h3>
+
+* SQLD (한국데이터산업진흥원) - 2024.06
+* 정보처리기사 (한국산업인력공단) - 2025.09
+
+<br />
 
 
 <div align="center">
